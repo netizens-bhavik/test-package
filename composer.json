@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "netizens-bhavik/test-packge",
+    "description": "this is test packge",
     "keywords": [
-        ":vendor_name",
+        "netizens-bhavik",
         "laravel",
-        ":package_slug"
+        "netizens-bhavik"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/netizens-bhavik/test-packge",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
+            "name": "Bhavik Mistry",
             "email": "author@domain.com",
             "role": "Developer"
         }
